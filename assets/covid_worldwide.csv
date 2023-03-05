@@ -1,4 +1,4 @@
-Serial Number,Country,Total Cases,Total Deaths,Total Recovered,Active Cases,Total Test,Population
+Serial_Number,Country,Total_Cases,Total_Deaths,Total_Recovered,Active_Cases,Total_Test,Population
 1,USA,"104,196,861","1,132,935","101,322,779","1,741,147","1,159,832,679","334,805,269"
 2,India,"44,682,784","530,740","44,150,289","1,755","915,265,788","1,406,631,776"
 3,France,"39,524,311","164,233","39,264,546","95,532","271,490,188","65,584,518"
